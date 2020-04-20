@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,TEST webcam
-https://hddn01.skylinewebcams.com/live.m3u8
 #EXTINF:-1,Dubai
 https://videos3.earthcam.com/fecnetwork/5868.flv/chunklist_w274414879.m3u8
 #EXTINF:-1,Bognorregis (UK)
