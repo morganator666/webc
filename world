@@ -2,8 +2,15 @@
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
 plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
-#EXTINF:-1,Miami, Calle Ocho Street Cam
-https://www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach9
+#EXTINF:-1,TEST
+#EXTINF:-1,Brazil – Rio de Janeiro Cam Copacabana South
+http://video4.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+#EXTINF:-1,Canada – Niagara Falls Cam
+http://video4.earthcam.com/fecnetwork/4559.flv/playlist.m3u8
+#EXTINF:-1,Canada – Niagara Falls Cam
+http://video4.earthcam.com/fecnetwork/4559.flv/playlist.m3u8
+#EXTINF:-1,Bismarck North Dakota
+http://165.234.49.201:80/mjpg/video.mjpg
 #EXTINF:-1,New york Times Square 4k
 https://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
 #EXTINF:-1,Dubai
