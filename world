@@ -44,40 +44,13 @@ https://youtu.be/9WbCh2AE_NU
 https://youtu.be/sbZNL98Z0GE
 #EXTINF:-1,Green Mango Ko Samui Thailand
 https://youtu.be/B_2He_msuWU
-<item>
-<title>Irish Kevins bar Key West Florida</title>
-<link>http://52.2.51.240:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8</link>
-<thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
-</item>
-<item>
-<title>Irish Kevins Street Key West Florida</title>
-<link>http://52.2.51.240:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8</link>
-<thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
-</item>
-<title>Sloppy Joe's Bar</title>
-<link>http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sloppy Joe's Stage</title>
-<link>http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>Beach Cam</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Beauties Espanha</title>
-<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8</link>
-<thumbnail>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8</thumbnail>
-</item>
-<item>
-<title>Ft. Lauderdale Marina</title>
-<link>http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8</link>
-<thumbnail>https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg</thumbnail>
-</item>
 <item>
 <title>Panda Cam 1</title>
 <link>http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8</link>
